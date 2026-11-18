@@ -1,0 +1,12 @@
+{
+  "name": "tavola-pitagorica",
+  "version": "1.0.0",
+  "description": "Tavola pitagorica in una tabella HTML generata con TypeScript",
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc --watch"
+  },
+  "devDependencies": {
+    "typescript": "^5.9.0"
+  }
+}
